@@ -2845,13 +2845,17 @@ body {
 
   /* Home Text Type Writer Animation */
   .type {
-    height: 24px;
+    height: 25px;
+  }
+
+  .type span {
+    margin-bottom: 1px !important;
   }
 
   /* Slide Animation */
   @keyframes slide {
     100% {
-      top: -120px;
+      top: -130px;
     }
   }
 
