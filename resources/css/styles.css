@@ -2855,7 +2855,7 @@ body {
   /* Slide Animation */
   @keyframes slide {
     100% {
-      top: -130.5px;
+      top: -131px;
     }
   }
 
